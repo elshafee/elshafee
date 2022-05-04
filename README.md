@@ -5,17 +5,19 @@
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elshafee&label=Profile%20views&color=0e75b6&style=flat" alt="elshafee" />
-		   <img src="https://img.shields.io/github/followers/Ahmed7osny1?label=Followers" alt="Ahmed7osny1" />
+		   <img src="https://img.shields.io/github/followers/elshafee?label=Followers" alt="elshafee" />
 </p>
 
 <br/>
 
+Hi there,
+##I'm Ahmad Elshafee, Mechatronics Engineering Student & Software Engineering developer. As a part time I'm an Expert Trainer at BambooGeeks
 <p align="center">
   <img width="800" height="550" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
 </p>
 
 
-## I am Lead Google Developers Students Club - Benha University | Android Developement Intern at The Sparks Foundation | Android Developement Intern Associate Android Developer at Andela | Android Developement Intern at BambooGeeks | Former member of the scientific committee at IEEE BUB SB | Innovegypt program training at itida 
+
 
 
 
