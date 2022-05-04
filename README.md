@@ -1,13 +1,10 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
+
 
 <h1 align="center"> Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ahmed7osny1&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmed7osny1" />
-		   <img src="https://badges.pufler.dev/repos/Ahmed7osny1" alt="Ahmed7osny1" />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=elshafee&label=Profile%20views&color=0e75b6&style=flat" alt="elshafee" />
 		   <img src="https://img.shields.io/github/followers/Ahmed7osny1?label=Followers" alt="Ahmed7osny1" />
 </p>
 
