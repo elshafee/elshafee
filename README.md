@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Ahmad Elshafee From Egypt, Mechatronic Engineering Student. I'm also A Software Engineering Developer. I'm Curently Work as Expert Trainer at BambooGeeks.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elshafee&show_icons=true&theme=radical)
 
 <!--
