@@ -11,9 +11,10 @@
 <br/>
 
 Hi there,
-##I'm Ahmad Elshafee, Mechatronics Engineering Student & Software Engineering developer. As a part time I'm an Expert Trainer at BambooGeeks
+##I'm Ahmad Elshafee, Mechatronics Engineering Student & Software Engineering developer. As a part time I'm an Expert Trainer at BambooGeeks.
+
 <p align="center">
-  <img width="800" height="550" src="https://user-images.githubusercontent.com/101954425/162592706-83b8d48a-e429-42a2-9ff2-a1db3ec114a9.jpg">
+  <img width="800" height="550" src="https://drive.google.com/file/d/1a2t7LA4g1LLsO2O0ymdWx-m0fDqppt_Y/view?usp=sharing">
 </p>
 
 
