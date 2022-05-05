@@ -27,13 +27,12 @@ Hi there,I'm Ahmad Elshafee,
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
 
-I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
-I'm Studying Mechatronics Engineering at [Horus University](https://new.horus.edu.eg/) & 
+I'm from Egypt. I can develop any software for any screen using Flutter & arduino. I can Develop mobile Apps using Android(XML & Java), Android (XML & Kotlin). I'm a [Tensorflow Certified from Google](https://www.credential.net/2eaba5da-08f0-43a7-9646-069324ffa75c?__FB_PRIVATE_TRACKING__=%7B%22loggedout_browser_id%22:%22c17166072afc5ad494fb6e8cf608783ce26c3628%22%7D&fbclid=IwAR3HAcVtkwzC-JI-2PZh6rJ5BNiHKEzmzeEkalkdkCXCzuWuz4Vl1RFjwmg) 
 
 <br>
 
-- 🌱 I’m currently Studing Mechatronics Engineering at Horus University.
+- 🌱 I’m currently Studing Mechatronics Engineering at [Horus University](https://new.horus.edu.eg/).
 - 📄 Know about my experiences [LinkedIn Profile ](https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/)
 - 💬 Ask me about: C, Embedded Systems, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management, Machine Learning & Project management.
 - I am working as Expert Trainer at [BambooGeeks](https://www.bamboogeeks.com/) as Expert Trainer.
@@ -69,6 +68,7 @@ I'm Studying Mechatronics Engineering at [Horus University](https://new.horus.ed
   <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> </a> &emsp;
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img  width="40" height="40" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/> </a> &emsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &emsp;
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;  
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
 
@@ -80,7 +80,7 @@ I'm Studying Mechatronics Engineering at [Horus University](https://new.horus.ed
  
 <p align="center">
 <a href="https://github.com/elshafee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmed7osny1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elshafee&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elshafee&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
@@ -93,8 +93,19 @@ I'm Studying Mechatronics Engineering at [Horus University](https://new.horus.ed
    <a href="https://github.com/elshafee"><img alt="Ahmed Elshafee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elshafee&custom_title=Ahmad%20Elshafee's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
+#### Top Repositories
 
-<br/>
+
+<a href="https://github.com/elshafee/java_cours">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elshafee&repo=java_cours&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/elshafee/Certificates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elshafee&repo=Certificates&theme=chartreuse-dark" />
+</a>
+
+<br />
+<br />
+
 
 
 ## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
@@ -110,11 +121,11 @@ I'm Studying Mechatronics Engineering at [Horus University](https://new.horus.ed
 <br/>
 
 <p align="center">
-  <a href="https://twitter.com/ahmedho36018446" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedho36018446" height="40" width="40" /> </a> &emsp; 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmed-7osny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-7osny/" height="40" width="40" /> </a> &emsp;  
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15153071/ahmed-hosny" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15153071/ahmed-hosny" height="40" width="40" /> </a> &emsp; 
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100012734253212" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100012734253212" height="40" width="40" /> </a> &emsp; 
-  <a href="https://instagram.com/https://www.instagram.com/a_7osny_a/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/a_7osny_a/" height="40" width="40" /> </a> &emsp;
-  <a href="https://codeforces.com/profile/https://codeforces.com/profile/ahmed_hosny1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/ahmed_hosny1" height="40" width="40" /> </a> &emsp;
-  <a href="https://www.leetcode.com/https://leetcode.com/ahmed_hosny/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ahmed_hosny/" height="40" width="40" /> </a>
+  <a href="https://twitter.com/ahmadelshafee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadelshafee" height="40" width="40" /> </a> &emsp; 
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/" height="40" width="40" /> </a> &emsp;  
+  <a href="https://stackoverflow.com/users/14654956/ahmad-elshafee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14654956/ahmad-elshafee" height="40" width="40" /> </a> &emsp; 
+  <a href="https://www.facebook.com/khaled.abduls" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khaled.abduls" height="40" width="40" /> </a> &emsp; 
+  <a href="https://www.instagram.com/elshafee.k/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elshafee.k/" height="40" width="40" /> </a> &emsp;
+ <a href="https://www.qwiklabs.com/public_profiles/750530b3-ed8c-4a17-a882-d7d144249337" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+	
 </p> 
