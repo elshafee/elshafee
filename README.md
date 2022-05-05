@@ -7,14 +7,14 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elshafee&label=Profile%20views&color=0e75b6&style=flat" alt="elshafee" />
 		   <img src="https://img.shields.io/github/followers/elshafee?label=Followers" alt="elshafee" />
 </p>
-
+<a align="center"></a>
 <br/>
 
 Hi there,
-##I'm Ahmad Elshafee, Mechatronics Engineering Student & Software Engineering developer. As a part time I'm an Expert Trainer at BambooGeeks.
+##I'm Ahmad Elshafee,
 
 <p align="center">
-  <img width="800" height="550" src="https://github.com/elshafee/elshafee/blob/main/266129683_993106638219885_684774072486598006_n.jpg">
+  <img width="800" height="800" src="https://github.com/elshafee/elshafee/blob/main/266129683_993106638219885_684774072486598006_n.jpg">
 </p>
 
 
@@ -30,13 +30,15 @@ Hi there,
 
 I am a third-year Medical Informatics student at faculty of computer and Al Benha University. I am interested in working in the largest companies and look forward to developing my career in the field of Android development to utilize my skills and gain practical and I believe I would make an excellent addition to your team because I feel I am well qualified for this job. I have a good understanding of Android and all the skills you are looking for, I am an ambitious, motivated, creative and fast learner.
 
+I'm Studying Mechatronics Engineering at [Horus University](https://new.horus.edu.eg/) & 
+
 <br>
 
-- 🌱 I’m currently learning Android Deveopment and getting knowledge about Software Enginnering.
-- 📄 Know about my experiences [Resume](https://resume.io/r/pKfcGZy7p)
-- 💬 Ask me about: C++, Data Structure, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management.
-- I am working on my YOUTUBE channel [AhmedHosny](https://www.youtube.com/channel/UCX9HMXGGp39T8K5rzqP9_sw).
-- ⚡ Fun fact: I love to play chess and listen music.
+- 🌱 I’m currently Studing Mechatronics Engineering at Horus University.
+- 📄 Know about my experiences [LinkedIn Profile ](https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/)
+- 💬 Ask me about: C, Embedded Systems, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management, Machine Learning & Project management.
+- I am working as Expert Trainer at [BambooGeeks](https://www.bamboogeeks.com/) as Expert Trainer.
+- ⚡ Fun fact: I love playing with Electronics and Listening to Om Kolthom.
 - 📫 How to reach me:  follow me from the footer links below 👇
 
 
@@ -46,7 +48,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 <br>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed7osny1&theme=chartreuse-dark" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elshafee&theme=chartreuse-dark" /></p>
 
 <br>
 
@@ -78,9 +80,9 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 <br/>
  
 <p align="center">
-<a href="https://github.com/Ahmed7osny1">
+<a href="https://github.com/elshafee">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ahmed7osny1&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmed7osny1&layout=compact&langs_count=8&theme=chartreuse-dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elshafee&layout=compact&langs_count=8&theme=chartreuse-dark"/>
 </a>
 </p>
 
@@ -89,7 +91,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
  ## <p align="center"><b>⚡ Recent GitHub Activity</b></p>
  
  <br/>
-   <a href="https://github.com/Ahmed7osny1"><img alt="Ahmed Hosny's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ahmed7osny1&custom_title=Ahmed7osny1's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/elshafee"><img alt="Ahmed Elshafee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elshafee&custom_title=Ahmad%20Elshafee's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -97,7 +99,7 @@ I am a third-year Medical Informatics student at faculty of computer and Al Benh
 
 
 ## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=Ahmed7osny1&theme=juicyfresh&no-bg=true" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=elshafee&theme=juicyfresh&no-bg=true" /></p>
 
 
 	
