@@ -27,13 +27,13 @@
 
 
 
-I'm from Egypt. I can develop any software for any screen using Flutter & arduino. I can Develop mobile Apps using Android(XML & Java), Android (XML & Kotlin). I'm a [Tensorflow Certified from Google](https://www.credential.net/2eaba5da-08f0-43a7-9646-069324ffa75c?__FB_PRIVATE_TRACKING__=%7B%22loggedout_browser_id%22:%22c17166072afc5ad494fb6e8cf608783ce26c3628%22%7D&fbclid=IwAR3HAcVtkwzC-JI-2PZh6rJ5BNiHKEzmzeEkalkdkCXCzuWuz4Vl1RFjwmg) 
+I'm from Egypt. I can develop any software for any screen using Flutter & arduino. I can Develop mobile Apps using Android(XML & Java), Android (XML & Kotlin) or Flutter.if you need to do any Image Processing Tasks with Flutter I can help you to do it. I'm a [Tensorflow Certified from Google](https://www.credential.net/2eaba5da-08f0-43a7-9646-069324ffa75c?__FB_PRIVATE_TRACKING__=%7B%22loggedout_browser_id%22:%22c17166072afc5ad494fb6e8cf608783ce26c3628%22%7D&fbclid=IwAR3HAcVtkwzC-JI-2PZh6rJ5BNiHKEzmzeEkalkdkCXCzuWuz4Vl1RFjwmg) 
 
 <br>
 
 - 🌱 I’m currently Studing Mechatronics Engineering at [Horus University](https://new.horus.edu.eg/).
 - 📄 Know about my experiences [LinkedIn Profile ](https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/)
-- 💬 Ask me about: C, Embedded Systems, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Version Control, Team Management, Machine Learning & Project management.
+- 💬 Ask me about: C, Embedded Systems, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Team Management, Machine Learning & Project management.
 - I am working as Expert Trainer at [BambooGeeks](https://www.bamboogeeks.com/) as Expert Trainer.
 - ⚡ Fun fact: I love playing with Electronics and Listening to Om Kolthom.
 - 📫 How to reach me:  follow me from the footer links below 👇
