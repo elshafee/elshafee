@@ -68,7 +68,8 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img  width="40" height="40" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/> </a> &emsp;
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &emsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&emsp;  
+<a href="https://kaggle.com/ahmadelshafee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmadelshafee" height="30" width="40" /></a>
 </p>
 
 <hr>
