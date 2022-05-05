@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi there, I am Ahmed Hosny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center"> Hi there, I'm Ahmad Elshafee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 <br>
 
@@ -10,7 +10,6 @@
 <a align="center"></a>
 <br/>
 
-Hi there, I'm Ahmad Elshafee,
 
 <p align="center">
   <img width="800" height="800" src="https://github.com/elshafee/elshafee/blob/main/266129683_993106638219885_684774072486598006_n.jpg">
