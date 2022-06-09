@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hi there, I'm Ahmad Elshafee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height = "10px"> </h1>
+<h1 align="center"> Hi there, I'm Ahmad Elshafee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px" height = "20px"> </h1>
 
 <br>
 
