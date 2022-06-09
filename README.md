@@ -1,13 +1,5 @@
-
-
-
-
-#####
-
 <h1 align="center"> Hi there, I'm Ahmad Elshafee </h1>
-
 <br>
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=elshafee&label=Profile%20views&color=0e75b6&style=flat" alt="elshafee" />
 		   <img src="https://img.shields.io/github/followers/elshafee?label=Followers" alt="elshafee" />
 	<a href="https://github.com/elshafee"> <img src="https://visitor-badge.laobi.icu/badge?page_id=elshafee" alt="Visitors"></a></h2>
@@ -19,27 +11,23 @@
 </p>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
+## &nbsp;***About me ....***
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-
-
-I'm from Egypt. I can develop any software for any screen using Flutter & arduino. I can Develop mobile Apps using Android(XML & Java), Android (XML & Kotlin) or Flutter.if you need to do any Image Processing Tasks with Flutter I can help you to do it. I'm a [Tensorflow Certified from Google](https://www.credential.net/2eaba5da-08f0-43a7-9646-069324ffa75c?__FB_PRIVATE_TRACKING__=%7B%22loggedout_browser_id%22:%22c17166072afc5ad494fb6e8cf608783ce26c3628%22%7D&fbclid=IwAR3HAcVtkwzC-JI-2PZh6rJ5BNiHKEzmzeEkalkdkCXCzuWuz4Vl1RFjwmg) 
-
+I'm from Egypt. I can develop any software for any screen using Flutter & arduino. I can Develop mobile Apps using Android(XML & Java), Android (XML & Kotlin) or Flutter.if you need to do any Image Processing Tasks with Flutter I can help you to do it. I'm a [Tensorflow Certified from Google]
 <br>
 
 - 🌱 I’m currently Studing Mechatronics Engineering at [Horus University](https://new.horus.edu.eg/).
 - 📄 Know about my experiences [LinkedIn Profile ](https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/)
 - 💬 Ask me about: C, Embedded Systems, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Team Management, Machine Learning & Project management.
-- I am working as Expert Trainer at [BambooGeeks](https://www.bamboogeeks.com/) as Expert Trainer.
-- ⚡ Fun fact: I love playing with Electronics and Listening to Om Kolthom.
+- I am working as Expert Trainer at [BambooGeeks](https://www.bamboogeeks.com/).
+- ⚡ Fun fact: I love playing with Electronics and Listening to Umm Kulthum.
 - 📫 How to reach me:  follow me from the footer links below 👇
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&multiline=true&lines=Currently+coding+for+fun...;but+also+for+a+better+future!)](https://github.com/DenverCoder1/readme-typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Currently+Coding+For+Fun;But+also+for+a+better+future)](https://git.io/typing-svg)
 <hr>
 
 
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Streak Stats
+## Streak Stats
 
 <br>
 
@@ -49,7 +37,7 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
 
 <hr>
 
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Languages and Tools:
+## <p align="center">Languages and Tools:
 
 <br/>
 
@@ -73,7 +61,7 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
 
 <hr>
 
-## <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+## <p align="center">&nbsp;<i><b>Git Activeness</b></i></p>
 
 <br/>
  
@@ -107,7 +95,7 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
 
 
 
-## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="100" />&nbsp;Git profile Trophies</p><br>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=elshafee&theme=juicyfresh&no-bg=true" /></p>
 
 
@@ -115,7 +103,7 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
 <hr>
 
 
-## <p align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32"></p>
+## <p align="center">Connect with me</p>
 
 <br/>
 
