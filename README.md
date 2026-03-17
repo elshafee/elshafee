@@ -74,11 +74,7 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
 
 <hr>
 
- ## <p align="center"><b>⚡ Recent GitHub Activity</b></p>
  
- <br/>
-   <a href="https://github.com/elshafee"><img alt="Ahmed Elshafee's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=elshafee&custom_title=Ahmad%20Elshafee's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
 
 #### Top Repositories
 
@@ -93,10 +89,6 @@ I'm from Egypt. I can develop any software for any screen using Flutter & arduin
 <br />
 <br />
 
-
-
-## <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="100" />&nbsp;Git profile Trophies</p><br>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=elshafee&theme=juicyfresh&no-bg=true" /></p>
 
 
 	
