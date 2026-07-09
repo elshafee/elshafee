@@ -1,110 +1,108 @@
-<h1 align="center"> Hi there, I'm Ahmad Elshafee </h1>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=elshafee&label=Profile%20views&color=0e75b6&style=flat" alt="elshafee" />
-		   <img src="https://img.shields.io/github/followers/elshafee?label=Followers" alt="elshafee" />
-	<a href="https://github.com/elshafee"> <img src="https://visitor-badge.laobi.icu/badge?page_id=elshafee" alt="Visitors"></a></h2>
-</p>
-<a align="center"></a>
-<br/>
-<p align="center">
-  <img width="800" height="800" src="https://github.com/elshafee/elshafee/blob/main/266129683_993106638219885_684774072486598006_n.jpg">
-</p>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+# Ahmad Elshafee
 
-## &nbsp;***About me ....***
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=elshafee&label=Profile%20views&color=0e75b6&style=flat)
+  ![Followers](https://img.shields.io/github/followers/elshafee?label=Followers&style=flat)
+  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=elshafee)
 
-I'm from Egypt. I can develop any software for any screen using Flutter & arduino. I can Develop mobile Apps using Android(XML & Java), Android (XML & Kotlin) or Flutter.if you need to do any Image Processing Tasks with Flutter I can help you to do it. I'm a [Tensorflow Certified from Google]
-<br>
+</div>
 
-- 🌱 I’m currently Studing Mechatronics Engineering at [Horus University](https://new.horus.edu.eg/).
-- 📄 Know about my experiences [LinkedIn Profile ](https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/)
-- 💬 Ask me about: C, Embedded Systems, Algorithms, OOP, Java, Kotlin, XML, Android, Database, Team Management, Machine Learning & Project management.
-- I am working as Expert Trainer at [BambooGeeks](https://www.bamboogeeks.com/).
-- ⚡ Fun fact: I love playing with Electronics and Listening to Umm Kulthum.
-- 📫 How to reach me:  follow me from the footer links below 👇
+---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3000&lines=Currently+Coding+For+Fun;But+also+for+a+better+future)](https://git.io/typing-svg)
-<hr>
+## 👨‍💻 About Me
 
+I am a software engineer and embedded systems specialist from Egypt with expertise in cross-platform mobile development, IoT solutions, and machine learning. Currently pursuing a degree in **Mechatronics Engineering** at [Horus University](https://new.horus.edu.eg/), while serving as an **Expert Trainer** at [BambooGeeks](https://www.bamboogeeks.com/).
 
-## Streak Stats
+### Key Expertise
+- **Mobile Development**: Flutter, Android (Java & Kotlin), XML
+- **Embedded Systems**: Arduino, IoT, Hardware Integration
+- **Backend & Databases**: Java, Python, C++, MySQL, Firebase
+- **Machine Learning**: TensorFlow, Data Analysis
+- **Project Management**: Team Leadership, Agile Methodologies
 
-<br>
+### Quick Facts
+- 📚 Studying Mechatronics Engineering at Horus University
+- 🏢 Expert Trainer at BambooGeeks
+- 📊 Passionate about solving complex problems through code and electronics
+- 🎵 Enthusiast of classical Arabic music (Umm Kulthum)
+- 📍 Available for remote projects and collaborations
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elshafee&theme=chartreuse-dark" /></p>
+---
 
-<br>
+## 🛠️ Technical Skills
 
-<hr>
+<div align="center">
 
-## <p align="center">Languages and Tools:
+**Languages:**
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
-<br/>
+**Mobile & Frontend:**
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![XML](https://img.shields.io/badge/-XML-FF6600?style=flat&logo=xml&logoColor=white)
 
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &emsp;
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> &emsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> &emsp;
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> &emsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &emsp;
-  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="git" width="40" height="40"/> </a> &emsp;
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a> &emsp; 
-	  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>&emsp;  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&emsp;  
-<a href="https://kaggle.com/ahmadelshafee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ahmadelshafee" height="30" width="40" /></a>&emsp;  
-  <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/> </a> &emsp;
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img  width="40" height="40" src="https://img.icons8.com/color/240/000000/intellij-idea.png"/> </a> &emsp;
- 
+**Databases & Backend:**
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-</p>
+**Tools & Platforms:**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-<hr>
+</div>
 
-## <p align="center">&nbsp;<i><b>Git Activeness</b></i></p>
+---
 
-<br/>
- 
-<p align="center">
-<a href="https://github.com/elshafee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elshafee&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elshafee&layout=compact&langs_count=8&theme=chartreuse-dark"/>
-</a>
-</p>
+## 📊 GitHub Statistics
 
-<hr>
+<div align="center">
 
- 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elshafee&theme=chartreuse-dark)
 
-#### Top Repositories
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=elshafee&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elshafee&layout=compact&langs_count=8&theme=chartreuse-dark)
 
+</div>
 
-<a href="https://github.com/elshafee/java_cours">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elshafee&repo=java_cours&theme=chartreuse-dark" />
-</a>
-<a href="https://github.com/elshafee/Horus_cafee_managment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elshafee&repo=Horus_cafee_managment&theme=chartreuse-dark" />
-</a>
+---
 
-<br />
-<br />
+## 🎯 Featured Projects
 
+<div align="center">
 
+[![Java Course](https://github-readme-stats.vercel.app/api/pin/?username=elshafee&repo=java_cours&theme=chartreuse-dark)](https://github.com/elshafee/java_cours)
+[![Horus Cafe Management](https://github-readme-stats.vercel.app/api/pin/?username=elshafee&repo=Horus_cafee_managment&theme=chartreuse-dark)](https://github.com/elshafee/Horus_cafee_managment)
 
-	
-<hr>
+</div>
 
+---
 
-## <p align="center">Connect with me</p>
+## 🔗 Connect With Me
 
-<br/>
+<div align="center">
 
-<p align="center">
-  <a href="https://twitter.com/ahmadelshafee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadelshafee" height="40" width="40" /> </a> &emsp; 
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/" height="40" width="40" /> </a> &emsp;  
-  <a href="https://stackoverflow.com/users/14654956/ahmad-elshafee" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14654956/ahmad-elshafee" height="40" width="40" /> </a> &emsp; 
-  <a href="https://www.facebook.com/khaled.abduls" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/khaled.abduls" height="40" width="40" /> </a> &emsp; 
-  <a href="https://www.instagram.com/elshafee.k/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/elshafee.k/" height="40" width="40" /> </a> &emsp;
- <a href="https://www.qwiklabs.com/public_profiles/750530b3-ed8c-4a17-a882-d7d144249337" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-	
-</p> 
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ahmadelshafee)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-elshafee-1a44051a6/)
+[![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-F48024?style=flat&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14654956/ahmad-elshafee)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/khaled.abduls)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/elshafee.k/)
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://kaggle.com/ahmadelshafee)
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)](https://www.qwiklabs.com/public_profiles/750530b3-ed8c-4a17-a882-d7d144249337)
+
+</div>
+
+---
+
+<div align="center">
+
+**Feel free to reach out for collaboration, mentorship, or project opportunities!**
+
+</div>
