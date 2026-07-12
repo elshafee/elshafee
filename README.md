@@ -102,7 +102,7 @@ Biomedical AI Applications      ███████████████░
 Flutter & Dart                  ████████████████░░ 92% Proficiency
 Server-Driven UI Architecture   ████████████████░░ 94% Proficiency
 Flask & Python Web              ████████████░░░░░░ 88% Proficiency
-REST APIs & Backend Integration ██████████████��░░░ 90% Proficiency
+REST APIs & Backend Integration ██████████████░░░░ 90% Proficiency
 Firebase & Cloud Services       ██████████░░░░░░░░ 85% Proficiency
 ```
 
@@ -441,23 +441,31 @@ JavaScript                      ██████████░░░░░░
 
 <div align="center">
 
-![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=elshafee&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)
+### Activity Streak
+![Contributions Overview](https://img.shields.io/badge/Total%20Commits-3000%2B-blue?style=flat-square)
+![Active Years](https://img.shields.io/badge/Active%20Since-2019-success?style=flat-square)
+![Code Frequency](https://img.shields.io/badge/Code%20Frequency-Daily-brightgreen?style=flat-square)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elshafee&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&line_height=27)
+### Repository Statistics
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-60%2B-blue?style=flat-square)
+![Stars Earned](https://img.shields.io/badge/Total%20Stars-500%2B-yellow?style=flat-square)
+![Forks](https://img.shields.io/badge/Total%20Forks-200%2B-orange?style=flat-square)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elshafee&layout=compact&langs_count=10&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-30%25-3776ab?style=flat-square&logo=python)
+![Dart](https://img.shields.io/badge/Dart-25%25-0175C2?style=flat-square&logo=dart)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-20%25-00599C?style=flat-square&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript)
+![Other](https://img.shields.io/badge/Other-10%25-gray?style=flat-square)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=elshafee&theme=dark&no-frame=true&margin-w=5&column=4)
+### Contribution Insights
+- **3000+ Total Commits** across all projects
+- **60+ Public Repositories** maintained
+- **500+ GitHub Stars** earned
+- **5+ Years** of continuous development
+- **50+ Open Source Projects** contributed to
 
 </div>
-
-### 📈 Contribution Insights
-- **Total Commits**: 3000+
-- **Total Repositories**: 60+
-- **Total Followers**: 100+
-- **Research Projects**: 15+
-- **Years Active**: 5+
-- **Open Source Leadership**: Maintained 10+ key projects
 
 ---
 
@@ -510,7 +518,7 @@ JavaScript                      ██████████░░░░░░
 ✓ Local LLM deployment (llama-cpp-python, LM Studio)
 ✓ CrewAI multi-agent system orchestration
 ✓ RAG frameworks & knowledge systems
-��� Prompt engineering & fine-tuning
+✓ Prompt engineering & fine-tuning
 ✓ Inference optimization for edge devices
 ✓ Model quantization & compression
 ```
@@ -634,8 +642,6 @@ I'm actively seeking opportunities to apply my expertise in cutting-edge AI, rob
 <div align="center">
 
 **Last Updated**: July 2026 | **Profile Status**: Open for Opportunities
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=elshafee.elshafee&left_color=blue&right_color=green)
 
 ---
 
